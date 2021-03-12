@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View, Platform, TextInput, KeyboardAvoidingView } from 'react-native';
+
 import SearchInput from './components/searchInput';
 
 export default function App() {

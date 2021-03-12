@@ -5,6 +5,7 @@ export default class SearchInput extends React.Component {
     render() {
         return (
             <View style={styles.container}>
+                
                 <TextInput
                     autoCorrect={false}
                     placeholder={this.props.placeholder}
